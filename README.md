@@ -2,7 +2,7 @@
 Hyper theme color
 
 
-## Install usgin hpm
+## Install using hpm
 
 ```
 hpm install hyper-natol-theme
