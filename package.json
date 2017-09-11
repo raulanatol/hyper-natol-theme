@@ -1,0 +1,28 @@
+{
+  "name": "hyper-natol-theme",
+  "version": "1.0.0",
+  "description": "Hyper theme color",
+  "keywords": [
+    "color",
+    "dark",
+    "hyper",
+    "hyper-theme"
+  ],
+  "homepage": "https://github.com/raulanatol/hyper-natol-theme#readme",
+  "bugs": {
+    "url": "https://github.com/raulanatol/hyper-natol-theme/issues"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "raulanatol",
+    "email": "raul@natol.es",
+    "url": "natol.es"
+  },
+  "files": [
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raulanatol/hyper-natol-theme.git"
+  }
+}
