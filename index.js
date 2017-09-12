@@ -33,10 +33,3 @@ exports.decorateConfig = config => {
     colors
   });
 };
-
-exports.keymapsConfig = keymaps => {
-  return Object.assign({}, keymaps, {
-    "pane:next": "cmd+alt+up",
-    "pane:prev": "cmd+alt+down"
-  });
-};
