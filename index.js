@@ -30,7 +30,6 @@ exports.decorateConfig = config => {
     backgroundColor,
     borderColor,
     cursorColor,
-    colors,
-    modifierKeys: { altIsMeta: false }
+    colors
   });
 };
